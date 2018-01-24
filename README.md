@@ -1,1 +1,2 @@
 "# TypeScriptLab1" 
+"# typescript" 
